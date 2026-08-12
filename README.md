@@ -1,42 +1,117 @@
-### 👋 About Me
+<h2 data-importer="text" align="left">Hey 👋 What's up?</h2>
 
-Hi there! I'm **Maulana Barzaqi**, a passionate **Software Developer** based in Indonesia. I enjoy building robust, user-centric web and mobile applications, combining clean front-end interfaces with reliable backend logic.
+###
 
----
+<p data-importer="text" align="left">Hi, I'm <b>Maulana Barzaqi</b>, a fresh Informatics graduate and aspiring <b>Software Engineer</b> based in Indonesia. I specialize in building robust web and mobile applications, with a focus on crafting clean, scalable <b>back-end logic</b> and user-centric interfaces.</p>
 
-### 🛠 Tech Stack
+###
 
-#### 🔹 Languages
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+<h2 data-importer="text" align="left">👨🏻‍💻About me</h2>
 
-#### 🔹 Frameworks
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
-[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![Fiber](https://img.shields.io/badge/Fiber-000000?style=for-the-badge&logo=go&logoColor=white)](https://gofiber.io/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+###
 
-#### 🔹 Databases
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
+<p align="left">
+    🔭 I’m currently diving deep into <b>Go (Golang)</b> and its ecosystem (Fiber, Gin, etc.).<br>
+    🎓 Fresh Graduate in <b>Informatics</b>, with a strong foundation in Computer Science and Mathematics.<br>
+    🤔 Exploring new technologies and developing <b>software solutions</b>.<br>
+    💼 Focused as a <b>Flutter developer</b> and <b>Back-End developer</b>.<br>
+    🌱 Enthusiast in <b>Software Engineering</b> and <b>Cyber Security</b>.<br>
+    ✍️ Experimenting with the latest <b>software development trends</b> as a hobby/side project.
+</p>
 
-#### 🔹 Tools
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Git Bash](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+###
 
----
+<h2 data-importer="text" align="left">🛠 Tech Stack</h2>
 
-### 📬 Connect with me
+###
 
-* 📸 **Instagram:** [@mlnzq_](https://instagram.com/mlnzq_)
-* 💼 **LinkedIn:** [Maulana Barzaqi](https://www.linkedin.com/in/maulana-barzaqi-3a6734272/)
-* 📧 **Email:** [molaarzaqi22@gmail.com](mailto:molaarzaqi22@gmail.com)
+<h4 data-importer="text" align="left">🔹 🌐 Languages</h4>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="30" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+</div>
+
+###
+
+<h4 data-importer="text" align="left">🔹💼 Frameworks</h4>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://gofiber.io/img/logo-dark.svg" height="30" alt="gofiber logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+</div>
+
+###
+
+<h4 data-importer="text" align="left">🔹🛢 Databases</h4>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" height="30" alt="supabase logo"  />
+</div>
+
+###
+
+<h4 data-importer="text" align="left">🔹🔧 Tools</h4>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" height="30" alt="postman logo"  />
+</div>
+
+###
+
+<h2 data-importer="text" align="left">🤝🏻 Connect with Me</h2>
+
+###
+
+<div data-importer="socials" align="left">
+    <a href="https://linkedin.com/in/maulana-barzaqi-3a6734272" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+    </a>
+    <a href="mailto:molaarzaqi22@gmail.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
+    </a>
+    <a href="https://discord.com/users/maulwoii" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="42" height="30" alt="discord logo"  />
+    </a>
+    <a href="https://www.instagram.com/mlnzq_" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
+    </a>
+</div>
+
+###
