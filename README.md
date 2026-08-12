@@ -39,4 +39,4 @@ Hi there! I'm **Maulana Barzaqi**, a passionate **Software Developer** based in 
 
 * 📸 **Instagram:** [@mlnzq_](https://instagram.com/mlnzq_)
 * 💼 **LinkedIn:** [Maulana Barzaqi](https://www.linkedin.com/in/maulana-barzaqi-3a6734272/)
-* 📧 **Email:** [maulanabarzaqi@example.com](mailto:molaarzaqi22@gmail.com)
+* 📧 **Email:** [molaarzaqi22@gmail.com](mailto:molaarzaqi22@gmail.com)
